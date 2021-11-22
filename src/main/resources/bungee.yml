@@ -1,0 +1,4 @@
+name: Limbo
+version: ${project.version}
+main: net.royalmind.minecraft.limbo.Limbo
+description: Limbo addon for AFK players
